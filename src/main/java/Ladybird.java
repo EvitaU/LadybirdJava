@@ -15,7 +15,7 @@ public class Ladybird {
         ladybird = ladybird.getScaledInstance(width, height, Image.SCALE_SMOOTH);
     }
 
-    public Image getBird() {
+    public Image getLadybird() {
         return ladybird;
     }
 
