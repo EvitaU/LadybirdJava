@@ -51,5 +51,6 @@ import java.awt.image.BufferedImage;
             g.dispose();
             return bi;
         }
+
     }
 
